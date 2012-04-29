@@ -64,7 +64,7 @@ int main()
 	long time2 = clock();
 	mm_destroy();
 	cout<<"×Ü¹²ÉêÇëÁË"<<size<<"¿é"<<endl;
-	cout<<"ºÄÊ±"<<time2-time1<<"ºÁÃë"<<endl;
+	cout<<" ºÄÊ± "<<time2-time1<<"ºÁÃë"<<endl;
 	system("pause");
 	return 0;
 }
